@@ -1,5 +1,5 @@
 - 👋 opa sou Ny ou @N7ny.
 - 👀 To aqui pra mostrar tudo que eu aprendo sobre programação pondo tudo em pratica e com o sonho de trabalhar com isso um dia.
-- 🌱 Eu aprendo de tudo um pouco no momento to aprendendo React e Js.
+- 🌱 Eu aprendo de tudo um pouco no momento to aprendendo Js.
 - 📫 Voce pode me achar no meu instagram (https://www.instagram.com/ny.8nyn/), no meu linkedin (https://www.linkedin.com/in/nycolas-anjos-5031a4237/), email (anycolas32@gmail.com) e claro aqui no meu git hub.
 - ⚡ Fato engraçado: amo coisas dificeis que me fazem pensar e ferver a cabeça pra conseguir passar/conseguir.
